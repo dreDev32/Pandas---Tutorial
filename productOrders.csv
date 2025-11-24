@@ -1,0 +1,101 @@
+﻿order_id,CustomerName,product_name,category_name,quantity,list_price,order_date,order_status,state
+1,Johnathan Velazquez,Electra Townie Original 7D EQ - Women's - 2016,Cruisers Bicycles,1,599.99,1/1/2016,4,CA
+1,Johnathan Velazquez,Trek Remedy 29 Carbon Frameset - 2016,Mountain Bikes,2,1799.99,1/1/2016,4,CA
+1,Johnathan Velazquez,Surly Straggler - 2016,Cyclocross Bicycles,2,1549,1/1/2016,4,CA
+1,Johnathan Velazquez,Electra Townie Original 7D EQ - 2016,Cruisers Bicycles,2,599.99,1/1/2016,4,CA
+1,Johnathan Velazquez,Trek Fuel EX 8 29 - 2016,Mountain Bikes,1,2899.99,1/1/2016,4,CA
+2,Jaqueline Cummings,Electra Townie Original 7D EQ - Women's - 2016,Cruisers Bicycles,1,599.99,1/1/2016,4,NY
+2,Jaqueline Cummings,Electra Townie Original 7D EQ - 2016,Cruisers Bicycles,2,599.99,1/1/2016,4,NY
+3,Joshua Robertson,Surly Wednesday Frameset - 2016,Mountain Bikes,1,999.99,1/2/2016,4,NY
+3,Joshua Robertson,Electra Townie Original 7D EQ - Women's - 2016,Cruisers Bicycles,1,599.99,1/2/2016,4,NY
+4,Nova Hess,Ritchey Timberwolf Frameset - 2016,Mountain Bikes,2,749.99,1/3/2016,4,CA
+5,Arla Ellis,Surly Straggler - 2016,Cyclocross Bicycles,2,1549,1/3/2016,4,NY
+5,Arla Ellis,Pure Cycles Vine 8-Speed - 2016,Cruisers Bicycles,1,429,1/3/2016,4,NY
+5,Arla Ellis,Electra Townie Original 7D EQ - 2016,Comfort Bicycles,1,599.99,1/3/2016,4,NY
+6,Sharyn Hopkins,Pure Cycles Western 3-Speed - Women's - 2015/2016,Cruisers Bicycles,1,449,1/4/2016,4,NY
+6,Sharyn Hopkins,Electra Townie Original 21D - 2016,Cruisers Bicycles,2,549.99,1/4/2016,4,NY
+6,Sharyn Hopkins,Electra Townie Original 7D EQ - Women's - 2016,Cruisers Bicycles,1,599.99,1/4/2016,4,NY
+6,Sharyn Hopkins,Surly Wednesday Frameset - 2016,Mountain Bikes,2,999.99,1/4/2016,4,NY
+6,Sharyn Hopkins,Trek Conduit+ - 2016,Electric Bikes,2,2999.99,1/4/2016,4,NY
+7,Laureen Paul,Electra Moto 1 - 2016,Cruisers Bicycles,1,529.99,1/4/2016,4,NY
+7,Laureen Paul,Surly Wednesday Frameset - 2016,Mountain Bikes,1,999.99,1/4/2016,4,NY
+7,Laureen Paul,Pure Cycles Vine 8-Speed - 2016,Cruisers Bicycles,2,429,1/4/2016,4,NY
+8,Leslie Higgins,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Children Bicycles,1,269.99,1/4/2016,4,NY
+8,Leslie Higgins,Electra Townie Original 7D EQ - Women's - 2016,Cruisers Bicycles,2,599.99,1/4/2016,4,NY
+9,Neil Mccall,Trek Slash 8 27.5 - 2016,Mountain Bikes,2,3999.99,1/5/2016,4,CA
+10,Alane Munoz,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Cruisers Bicycles,1,269.99,1/5/2016,4,NY
+11,Tarra Guerrero,Trek Remedy 29 Carbon Frameset - 2016,Mountain Bikes,1,1799.99,1/5/2016,4,NY
+11,Tarra Guerrero,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Children Bicycles,2,269.99,1/5/2016,4,NY
+11,Tarra Guerrero,Electra Townie Original 7D EQ - 2016,Cruisers Bicycles,2,599.99,1/5/2016,4,NY
+12,Marvin Mullins,Trek Fuel EX 8 29 - 2016,Mountain Bikes,2,2899.99,1/6/2016,4,CA
+12,Marvin Mullins,Surly Straggler 650b - 2016,Cyclocross Bicycles,1,1680.99,1/6/2016,4,CA
+13,Patience Clayton,Electra Cruiser 1 (24-Inch) - 2016,Cruisers Bicycles,1,269.99,1/8/2016,4,NY
+13,Patience Clayton,Pure Cycles Vine 8-Speed - 2016,Cruisers Bicycles,2,429,1/8/2016,4,NY
+13,Patience Clayton,Electra Townie Original 7D EQ - Women's - 2016,Cruisers Bicycles,2,599.99,1/8/2016,4,NY
+13,Patience Clayton,Electra Townie Original 7D EQ - 2016,Cruisers Bicycles,2,599.99,1/8/2016,4,NY
+14,Maribel William,Surly Ice Cream Truck Frameset - 2016,Mountain Bikes,1,469.99,1/9/2016,4,CA
+15,Ellsworth Michael,Electra Townie Original 21D - 2016,Cruisers Bicycles,2,549.99,1/9/2016,4,NY
+15,Ellsworth Michael,Trek Remedy 29 Carbon Frameset - 2016,Mountain Bikes,1,1799.99,1/9/2016,4,NY
+15,Ellsworth Michael,Pure Cycles Western 3-Speed - Women's - 2015/2016,Cruisers Bicycles,2,449,1/9/2016,4,NY
+15,Ellsworth Michael,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Children Bicycles,2,299.99,1/9/2016,4,NY
+16,Lea Key,Trek Remedy 29 Carbon Frameset - 2016,Mountain Bikes,1,1799.99,1/12/2016,4,CA
+16,Lea Key,Electra Cruiser 1 (24-Inch) - 2016,Children Bicycles,1,269.99,1/12/2016,4,CA
+16,Lea Key,Electra Cruiser 1 (24-Inch) - 2016,Cruisers Bicycles,2,269.99,1/12/2016,4,CA
+16,Lea Key,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Cruisers Bicycles,1,269.99,1/12/2016,4,CA
+17,Sindy Anderson,Trek Remedy 29 Carbon Frameset - 2016,Mountain Bikes,1,1799.99,1/12/2016,4,CA
+17,Sindy Anderson,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Children Bicycles,1,299.99,1/12/2016,4,CA
+17,Sindy Anderson,Heller Shagamaw Frame - 2016,Mountain Bikes,1,1320.99,1/12/2016,4,CA
+17,Sindy Anderson,Electra Townie Original 7D EQ - Women's - 2016,Cruisers Bicycles,2,599.99,1/12/2016,4,CA
+18,Lanita Burton,Ritchey Timberwolf Frameset - 2016,Mountain Bikes,2,749.99,1/14/2016,4,CA
+18,Lanita Burton,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Children Bicycles,1,269.99,1/14/2016,4,CA
+18,Lanita Burton,Trek Slash 8 27.5 - 2016,Mountain Bikes,1,3999.99,1/14/2016,4,CA
+18,Lanita Burton,Electra Townie Original 7D - 2015/2016,Comfort Bicycles,2,499.99,1/14/2016,4,CA
+18,Lanita Burton,Trek Conduit+ - 2016,Electric Bikes,2,2999.99,1/14/2016,4,CA
+19,Norine Huffman,Surly Straggler - 2016,Cyclocross Bicycles,1,1549,1/14/2016,4,CA
+19,Norine Huffman,Trek Conduit+ - 2016,Electric Bikes,2,2999.99,1/14/2016,4,CA
+20,Randee Pitts,Trek Conduit+ - 2016,Electric Bikes,1,2999.99,1/14/2016,4,CA
+20,Randee Pitts,Surly Straggler - 2016,Cyclocross Bicycles,2,1549,1/14/2016,4,CA
+21,Neoma Daugherty,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Cruisers Bicycles,1,269.99,1/15/2016,4,NY
+21,Neoma Daugherty,Pure Cycles Vine 8-Speed - 2016,Cruisers Bicycles,1,429,1/15/2016,4,NY
+21,Neoma Daugherty,Surly Straggler - 2016,Cyclocross Bicycles,1,1549,1/15/2016,4,NY
+22,Tangela Hurley,Electra Moto 1 - 2016,Cruisers Bicycles,2,529.99,1/16/2016,4,CA
+22,Tangela Hurley,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Children Bicycles,1,269.99,1/16/2016,4,CA
+23,Drucilla Gilliam,Trek Fuel EX 8 29 - 2016,Mountain Bikes,2,2899.99,1/16/2016,4,CA
+23,Drucilla Gilliam,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Children Bicycles,2,299.99,1/16/2016,4,CA
+23,Drucilla Gilliam,Electra Cruiser 1 (24-Inch) - 2016,Cruisers Bicycles,1,269.99,1/16/2016,4,CA
+24,Ashton Lott,Surly Wednesday Frameset - 2016,Mountain Bikes,2,999.99,1/18/2016,4,NY
+24,Ashton Lott,Pure Cycles Western 3-Speed - Women's - 2015/2016,Cruisers Bicycles,2,449,1/18/2016,4,NY
+25,Sam Lester,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Children Bicycles,2,299.99,1/18/2016,4,NY
+25,Sam Lester,Surly Straggler - 2016,Cyclocross Bicycles,2,1549,1/18/2016,4,NY
+25,Sam Lester,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Children Bicycles,1,269.99,1/18/2016,4,NY
+25,Sam Lester,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Cruisers Bicycles,1,269.99,1/18/2016,4,NY
+25,Sam Lester,Electra Cruiser 1 (24-Inch) - 2016,Children Bicycles,1,269.99,1/18/2016,4,NY
+26,Jackeline Colon,Trek Slash 8 27.5 - 2016,Mountain Bikes,1,3999.99,1/18/2016,4,NY
+26,Jackeline Colon,Ritchey Timberwolf Frameset - 2016,Mountain Bikes,1,749.99,1/18/2016,4,NY
+26,Jackeline Colon,Electra Townie Original 21D - 2016,Cruisers Bicycles,1,549.99,1/18/2016,4,NY
+26,Jackeline Colon,Electra Cruiser 1 (24-Inch) - 2016,Children Bicycles,2,269.99,1/18/2016,4,NY
+27,Pamala Henry,Heller Shagamaw Frame - 2016,Mountain Bikes,1,1320.99,1/19/2016,4,NY
+27,Pamala Henry,Pure Cycles William 3-Speed - 2016,Cruisers Bicycles,1,449,1/19/2016,4,NY
+27,Pamala Henry,Electra Townie Original 7D EQ - 2016,Comfort Bicycles,2,599.99,1/19/2016,4,NY
+27,Pamala Henry,Trek Remedy 29 Carbon Frameset - 2016,Mountain Bikes,1,1799.99,1/19/2016,4,NY
+28,Eleni Gordon,Heller Shagamaw Frame - 2016,Mountain Bikes,1,1320.99,1/19/2016,4,NY
+28,Eleni Gordon,Trek Slash 8 27.5 - 2016,Mountain Bikes,2,3999.99,1/19/2016,4,NY
+28,Eleni Gordon,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Cruisers Bicycles,2,269.99,1/19/2016,4,NY
+28,Eleni Gordon,Surly Ice Cream Truck Frameset - 2016,Mountain Bikes,1,469.99,1/19/2016,4,NY
+29,Laureen Barry,Electra Townie Original 21D - 2016,Comfort Bicycles,2,549.99,1/20/2016,4,NY
+29,Laureen Barry,Surly Ice Cream Truck Frameset - 2016,Mountain Bikes,1,469.99,1/20/2016,4,NY
+29,Laureen Barry,Electra Cruiser 1 (24-Inch) - 2016,Children Bicycles,2,269.99,1/20/2016,4,NY
+29,Laureen Barry,Trek Remedy 29 Carbon Frameset - 2016,Mountain Bikes,1,1799.99,1/20/2016,4,NY
+29,Laureen Barry,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Cruisers Bicycles,2,269.99,1/20/2016,4,NY
+30,Yvone Guerrero,Electra Townie Original 7D EQ - 2016,Comfort Bicycles,1,599.99,1/20/2016,4,NY
+30,Yvone Guerrero,Pure Cycles Vine 8-Speed - 2016,Cruisers Bicycles,1,429,1/20/2016,4,NY
+30,Yvone Guerrero,Pure Cycles William 3-Speed - 2016,Cruisers Bicycles,1,449,1/20/2016,4,NY
+30,Yvone Guerrero,Trek Fuel EX 8 29 - 2016,Mountain Bikes,1,2899.99,1/20/2016,4,NY
+30,Yvone Guerrero,Trek Slash 8 27.5 - 2016,Mountain Bikes,2,3999.99,1/20/2016,4,NY
+31,Edgar Quinn,Surly Straggler 650b - 2016,Cyclocross Bicycles,2,1680.99,1/20/2016,4,TX
+31,Edgar Quinn,Trek Conduit+ - 2016,Electric Bikes,2,2999.99,1/20/2016,4,TX
+32,Kimbery Nieves,Trek Remedy 29 Carbon Frameset - 2016,Mountain Bikes,2,1799.99,1/21/2016,4,CA
+32,Kimbery Nieves,Electra Townie Original 21D - 2016,Cruisers Bicycles,2,549.99,1/21/2016,4,CA
+32,Kimbery Nieves,Electra Townie Original 7D - 2015/2016,Comfort Bicycles,2,499.99,1/21/2016,4,CA
+33,Verona O'neill,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Children Bicycles,2,299.99,1/21/2016,4,NY
+33,Verona O'neill,Trek Slash 8 27.5 - 2016,Mountain Bikes,1,3999.99,1/21/2016,4,NY
